@@ -18,7 +18,5 @@ class MainActivity : AppCompatActivity() {
 //        }
 
         println("This is for my second commit")
-
-        //ERROR #1
     }
 }
