@@ -27,5 +27,9 @@ class MainActivity : AppCompatActivity() {
         println("Adawda")
         println("Adawda")
 
+        print("Magic Experimental 2")
+        print("Magic Experimental 2")
+        print("Magic Experimental 2")
+
     }
 }
