@@ -39,5 +39,7 @@ class MainActivity : AppCompatActivity() {
 
         println("WDOADMAPOFMA ABCDEF CHANGE 2")
 
+        println("HELLO FROM FRIEND")
+
     }
 }
