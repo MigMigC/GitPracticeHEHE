@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
 
         print("Magic Experimental 2")
         print("Magic Experimental 2")
-        print("Magic Experimental 2")
+        print("Magic Experimental 2 AVCDEFSFS")
 
     }
 }
