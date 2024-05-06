@@ -31,6 +31,6 @@ class MainActivity : AppCompatActivity() {
 
         print("TEST")
 
-        println("WDOADMAPOFMA")
+        println("WDOADMAPOFMA ABCDEF CHANGE 2")
     }
 }
