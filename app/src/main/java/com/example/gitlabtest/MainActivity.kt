@@ -35,5 +35,7 @@ class MainActivity : AppCompatActivity() {
 
 
         print("TEST")
+
+        println("WDOADMAPOFMA")
     }
 }
