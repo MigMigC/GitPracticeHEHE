@@ -23,5 +23,9 @@ class MainActivity : AppCompatActivity() {
 
         print("Magic")
 
+        println("Adawda")
+        println("Adawda")
+        println("Adawda")
+
     }
 }
